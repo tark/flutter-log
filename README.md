@@ -1,9 +1,13 @@
 # flutter_log
 
-Flutter log
+Flutter logs is simple logger class which print your logs in a simple but readable manner.
+Examples is:
 
-## Getting Started
+```
+-->         functionName - param1 - param2
+-->            shortName - param1 - param2 - param3
+--> veryLongFunctionName - param1
+-->                 name - param1 - param2 - param3
+```
 
-For help getting started with Flutter, view our online [documentation](https://flutter.io/).
-
-For help on editing package code, view the [documentation](https://flutter.io/developing-packages/).
+Main point is to center the messages around end of the function name and start of the enumeration of parameters.

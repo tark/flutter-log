@@ -25,6 +25,8 @@ class L {
       buffer.write(" ");
     }
 
+    buffer.write(functionName);
+
     [o, o1, o2, o3].forEach((o) {
       if (o != null) buffer.write(" - ${o.toString()}");
     });

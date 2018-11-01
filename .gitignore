@@ -1,0 +1,4 @@
+.idea/*
+.packages
+.pubspec.lock
+flutter-log.iml

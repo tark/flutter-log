@@ -1,8 +1,8 @@
 name: flutter_log
 description: Flutter log
 version: 0.0.1
-author:
-homepage:
+author: Pavel Ismailov <pavel.ismailov@gmail.com>
+homepage: https://github.com/tark-hq/flutter-log
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
